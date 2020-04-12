@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>18668.jpg</filename>
+	<path>/content/Smart-Fridge/Data/Aug Images and Bounding 800x600/Beet/annotations/18668.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Beet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>80</ymin>
+			<xmax>637</xmax>
+			<ymax>665</ymax>
+		</bndbox>
+	</object>
+</annotation>

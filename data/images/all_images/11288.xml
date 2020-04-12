@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>11288.jpg</filename>
+	<path>/content/Smart-Fridge/Data/Aug Images and Bounding 800x600/Eggs/annotations/11288.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eggs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>125</ymin>
+			<xmax>590</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

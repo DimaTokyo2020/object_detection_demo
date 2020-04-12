@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>6311.jpg</filename>
+	<path>/content/Smart-Fridge/Data/Aug Images and Bounding 800x600/Beer/annotations/6311.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Beer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>206</ymin>
+			<xmax>340</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

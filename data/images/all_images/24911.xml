@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>24911.jpg</filename>
+	<path>/content/Smart-Fridge/Data/Aug Images and Bounding 800x600/Tomato/annotations/24911.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>130</ymin>
+			<xmax>842</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+</annotation>

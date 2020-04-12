@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>30853.jpg</filename>
+	<path>/content/Smart-Fridge/Data/Aug Images and Bounding 800x600/Cucumber/annotations/30853.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>161</ymin>
+			<xmax>620</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>
