@@ -1,27 +1,26 @@
-<?xml version="1.0" ?>
 <annotation>
-   <folder>annotations</folder>
-   <filename>0002.xml</filename>
-   <path>/content/Smart-Fridge/Data/Aug Images and Bounding 800x600/Beet/annotations/0002.xml</path>
-   <source>
-      <database>Unknown</database>
-   </source>
-   <size>
-      <width>800</width>
-      <height>600</height>
-      <depth>3</depth>
-   </size>
-   <segmented>0</segmented>
-   <object>
-      <name>Beet</name>
-      <pose>Unspecified</pose>
-      <truncated>0</truncated>
-      <difficult>0</difficult>
-      <bndbox>
-         <xmin>288</xmin>
-         <ymin>227</ymin>
-         <xmax>597</xmax>
-         <ymax>576</ymax>
-      </bndbox>
-   </object>
+	<folder>images</folder>
+	<filename>1.jpg</filename>
+	<path>G:\GitHub\object_detection_demo\data\images\1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>227</ymin>
+			<xmax>592</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
 </annotation>
