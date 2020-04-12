@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
-	<filename>5.jpg</filename>
-	<path>G:\GitHub\object_detection_demo\data\images\5.jpg</path>
+	<folder>annotations</folder>
+	<filename>0002.xml</filename>
+	<path>/content/Smart-Fridge/Data/Aug Images and Bounding 800x600/Beer/annotations/0002.xml</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Beet</name>
+		<name>Beer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>377</xmin>
-			<ymin>195</ymin>
-			<xmax>720</xmax>
-			<ymax>577</ymax>
+			<xmin>208</xmin>
+			<ymin>30</ymin>
+			<xmax>365</xmax>
+			<ymax>424</ymax>
 		</bndbox>
 	</object>
 </annotation>
