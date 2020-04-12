@@ -1,7 +1,7 @@
 <annotation>
    <folder>annotations</folder>
    <filename>0002.xml</filename>
-   <path>/content/Smart-Fridge/Data/Aug Images and Bounding 800x600/Beet/annotations/0002.xml</path>
+   <path>/content/Smart-Fridge/Data/Aug Images and Bounding 800x600/Beer/annotations/0002.xml</path>
    <source>
       <database>Unknown</database>
    </source>
@@ -12,15 +12,15 @@
    </size>
    <segmented>0</segmented>
    <object>
-      <name>Beet</name>
+      <name>Beer</name>
       <pose>Unspecified</pose>
       <truncated>0</truncated>
       <difficult>0</difficult>
       <bndbox>
-         <xmin>288</xmin>
-         <ymin>227</ymin>
-         <xmax>597</xmax>
-         <ymax>576</ymax>
+         <xmin>429</xmin>
+         <ymin>-18</ymin>
+         <xmax>600</xmax>
+         <ymax>381</ymax>
       </bndbox>
    </object>
 </annotation>
